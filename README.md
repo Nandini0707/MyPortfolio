@@ -3,7 +3,7 @@
 Hi there! I'm Nandini, a passionate **Computer Science student** and **Aspiring Full Stack Developer (MERN Stack)**. I love building things for the web and am currently looking for my first professional opportunity as a **Web Developer Intern**.
 
 ## 🌐 Live Link
-[Check out my live portfolio here!](https://my-portfolio-seven-psi-blex1k59pc.vercel.app/)
+[Check out my live portfolio here!](https://nandini-yadav-portfolio.vercel.app/)
 
 ---
 
