@@ -1,79 +1,77 @@
-# 🚀 Personal Portfolio | Nandini Yadav
+# 🎓 My Portfolio | Nandini Yadav
 
-Welcome to my professional portfolio website! I am a **Full Stack Web Developer (MERN Stack)** passionate about building scalable, responsive, and user-centric web applications.
+Hi there! I'm Nandini, a passionate **Computer Science student** and **Aspiring Full Stack Developer (MERN Stack)**. I love building things for the web and am currently looking for my first professional opportunity as a **Web Developer Intern**.
 
-## 🌐 Live Demo
-[View Live Site on Vercel](#) *(Link will be updated after Vercel deployment)*
-
----
-
-## 👨‍💻 About Me
-- **Role:** Full Stack Web Developer (MERN Stack)
-- **Location:** Ghaziabad, India
-- **Education:** B.Tech in Computer Science @ KIET Group of Institutions (CGPA: 8.9)
-- **Bio:** Motivated developer with hands-on experience building real-world applications from scratch. Highly skilled in the MERN stack and actively seeking internship opportunities.
+## 🌐 Live Link
+[Check out my live portfolio here!](#) *(Link coming soon after Vercel deployment)*
 
 ---
 
-## 🛠️ Tech Stack
-- **Frontend:** React.js, Tailwind CSS, Framer Motion, Lucide React
-- **Backend:** Node.js, Express.js, REST APIs, JSON Web Tokens (JWT)
-- **Database:** MongoDB, Mongoose, SQL
-- **Languages:** C++, C, Java, Python
-- **Tools:** Git, GitHub, VS Code, Postman
+## 👋 About Me
+- **Current Status:** B.Tech Student (Computer Science) @ KIET Group of Institutions, Ghaziabad
+- **Academic Performance:** CGPA: 8.9 🚀
+- **Goal:** To learn and grow as a developer by working on real-world projects.
+- **Bio:** I'm a self-motivated learner who enjoys solving problems with code. I've spent my college years learning the MERN stack and practicing my coding skills on LeetCode.
 
 ---
 
-## 🌟 Featured Projects
+## 🛠️ My Skills
+- **Frontend Basics:** HTML5, CSS3, JavaScript (ES6+), React.js
+- **Styling:** Tailwind CSS, Bootstrap
+- **Backend Learning:** Node.js, Express.js, REST APIs
+- **Database:** MongoDB (using Mongoose)
+- **Programming Languages:** C++, C, Java, Python (Love solving DSA problems!)
+- **Tools I Use:** Git, GitHub, VS Code, Postman
 
-### 🏥 PRESCRIPTO
-**Doctor Appointment Booking System**
-- Full-stack platform featuring role-based authentication (Doctor/Admin/User).
-- Integrated doctor dashboard and payment gateway (Stripe).
-- Responsive UI built with Tailwind CSS.
+---
+
+## 💻 Projects I've Built
+
+### 🏥 PRESCRIPTO - Doctor Appointment System
+*My major project using the MERN stack*
+- Built a system where users can book appointments with doctors.
+- Learned how to implement Admin and Doctor dashboards.
+- Explored payment integration with Stripe.
 
 ### 📄 AI Resume Builder
-**AI-Powered Resume Creation**
-- Platform to create and edit professional resumes.
-- Content improvement using **Google Gemini API**.
-- Features live preview and PDF generation.
+*An AI-powered project*
+- Created a tool to help students build professional resumes.
+- Integrated **Google Gemini API** for smart content suggestions.
+- Focused on making a clean UI using Tailwind CSS.
 
 ---
 
-## 🏆 Achievements & Certifications
-- ✅ Solved **300+ LeetCode problems**.
-- ✅ AWOO Foundation Scholarship recipient.
-- ✅ Smart India Hackathon department-level selection.
-- ✅ Certified in Cloud Computing, Cybersecurity, and Full Stack Development.
+## 🏆 My Achievements & Learning Journey
+- 💡 Solved **300+ LeetCode problems** (Focusing on Data Structures & Algorithms).
+- 🎓 **AWOO Foundation Scholar** (Awarded by Aditya Birla Group).
+- 🚀 Selected for **Smart India Hackathon** at the department level.
+- 📜 **Certifications:** Cloud Computing (LinkedIn), Cybersecurity (Palo Alto), Full Stack Development (Microsoft Ambassador), Python (Infosys).
 
 ---
 
-## 🚀 Getting Started Locally
+## 🚀 How to Run This Project Locally
 
-1. **Clone the repository:**
+1. **Clone it:**
    ```bash
    git clone https://github.com/Nandini0707/MyPortfolio.git
    ```
-2. **Install dependencies:**
+2. **Install things:**
    ```bash
    npm install
    ```
-3. **Run the development server:**
+3. **Start the dev server:**
    ```bash
    npm run dev
-   ```
-4. **Build for production:**
-   ```bash
-   npm run build
    ```
 
 ---
 
-## 📩 Contact
+## 📩 Let's Connect!
+I am actively looking for **Internship** or **Entry-level** roles. Feel free to reach out!
+
 - **Email:** [nandiniyadav1177@gmail.com](mailto:nandiniyadav1177@gmail.com)
 - **LinkedIn:** [Nandini Yadav](https://linkedin.com/in/nandini-yadav-97b70330a)
 - **GitHub:** [@Nandini0707](https://github.com/Nandini0707)
 
 ---
-
-Developed with ❤️ by Nandini Yadav
+*Built with ❤️ and a lot of coffee while learning React.*
