@@ -2,9 +2,9 @@ import { Github, Linkedin, Mail, Phone, MapPin, ExternalLink, Download } from 'l
 
 export const profile = {
   name: "Nandini Yadav",
-  role: "Full Stack Web Developer (MERN Stack)",
+  role: "Computer Science Student",
   location: "Ghaziabad, India",
-  bio: "Motivated Full Stack Web Developer with hands-on experience building real-world applications from scratch. Skilled in designing responsive UIs, developing RESTful APIs, and working with MongoDB-backed systems. Actively seeking Web Developer Intern roles.",
+  bio: "I am a Computer Science student at KIET who loves learning web development. I enjoy building projects with the MERN stack and I'm currently looking for my first internship to start my journey as a developer.",
   email: "nandiniyadav1177@gmail.com",
   phone: "+91 9450565624",
   github: "https://github.com/Nandini0707",
